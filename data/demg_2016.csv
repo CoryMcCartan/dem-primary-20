@@ -1,0 +1,16 @@
+group,margin_dem
+men,-9
+women,11
+age_18_34,22.9
+age_35_49,7.42
+age_50_64,-4
+age_60_inf,-14
+white,-20
+black,93
+hisp,47
+white_men,-28
+white_women,-12
+coll,11
+nocoll,-2
+white_coll,-4
+white_nocoll,-28
